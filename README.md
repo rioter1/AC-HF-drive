@@ -1,4 +1,4 @@
-# AC-HF-drive
+# AC-VF-drive
 Bachelors thesis (Delhi College of Engineering (2008 batch), Delhi University, Delhi, India. ) 
 
 "Simulation and Mathematical Modelling of Vector Control Drive and Associated Parameters"
